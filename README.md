@@ -1,4 +1,6 @@
-### Hi there 👋
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=angel-langdon.visitor-badge)
+
+![look](https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif)
 
 <!--
 **angel-langdon/angel-langdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
