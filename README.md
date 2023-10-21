@@ -6,7 +6,7 @@ I currently live in Valencia, Spain. 🇪🇸
 
 I am passionate about Software/AI projects that can help human society massively (Health, Pharmacology, Nuclear Fusion, Quantum Computing, Biotechnology, etc.)
 
-I am proficient in Python, Typescript, JavaScript, Backend, Data Science and Frontend.
+I am proficient in Python, TypeScript, JavaScript, Backend, Data Science and Frontend.
 
 I like to work in projects that involve multiple areas of software development. I don't mind learning new languages or technologies.
 
