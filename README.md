@@ -1,18 +1,18 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=angel-langdon.visitor-badge)
+Hey! I am Angel Langdon 👋
 
-![look](https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif)
+I am a Software Engineer with a Data Science background.
 
-<!--
-**angel-langdon/angel-langdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently live in Valencia, Spain. 🇪🇸
 
-Here are some ideas to get you started:
+I am passionate about Software/AI projects that can help human society massively (Health, Pharmacology, Nuclear Fusion, Quantum Computing, Biotechnology, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am proficient in Python, Typescript, JavaScript, Backend, Data Science and Frontend.
+
+I like to work in projects that involve multiple areas of software development. I don't mind learning new languages or technologies.
+
+You can find me on:
+
+* [LinkedIn](https://www.linkedin.com/in/angel-langdon-villamayor-a44b49187/)
+* [My website: entredatos.es](https://entredatos.es/en/)
+* [GitHub as @angel-langdon (you are here)](https://github.com/angel-langdon)
+<!--- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=angel-langdon.visitor-badge) -->
