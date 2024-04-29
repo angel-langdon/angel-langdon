@@ -4,7 +4,7 @@ I am a Software Engineer with a Data Science background.
 
 I currently live in Valencia, Spain. 🇪🇸
 
-I am passionate about Software/AI projects that can help human society massively (Health, Pharmacology, Nuclear Fusion, Quantum Computing, Biotechnology, etc.)
+I am passionate about Software/AI projects that can help human society massively (psychology, health, nuclear fusion, quantum computing, cryptography, biotechnology, etc.)
 
 I am proficient in Python, TypeScript, JavaScript, Backend, Data Science and Frontend.
 
