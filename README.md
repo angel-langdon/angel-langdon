@@ -1,17 +1,41 @@
-Hey! I am Angel Langdon 👋
+# Angel Langdon 👋
 
-I am a Software Engineer with a Data Science background.
+## Experience 💼
 
-I currently live in Valencia, Spain. 🇪🇸
+I am working as a Data Engineer for a financial company. I have expertise in AI/ML pipelines and full-stack development. I have been working since 2020 specially in these areas:
 
-I am passionate about Software/AI projects that can help human society massively (psychology, health, nuclear fusion, quantum computing, cryptography, biotechnology, etc.)
+- Data Engineering & Data Science
+- Backend & API Development
+- Frontend Development
+- CI/CD & DevOps
 
-I am proficient in Python, TypeScript, JavaScript, Backend, Data Science and Frontend.
+## Tech Stack 🛠️
 
-I like to work in projects that involve multiple areas of software development. I don't mind learning new languages or technologies.
+- **Core:** Python, TypeScript, C#, Docker
+- **Data & AI:** NLP, LLMs, RAG, OpenAI, Qdrant, chromaDB, PostgreSQL, SQLite, SQL Server
+- **Backend:** uv, FastAPI, aiohttp, pytest
+- **Frontend:** React, Vite, Tailwind, react-window
+- **Analytics:** PowerBI
 
-You can find me on:
+## Education 🎓
 
-* [LinkedIn](https://www.linkedin.com/in/angel-langdon-villamayor-a44b49187/)
-* [GitHub as @angel-langdon (you are here)](https://github.com/angel-langdon)
-<!--- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=angel-langdon.visitor-badge) -->
+BSc in [Data Science](https://www.upv.es/titulaciones/GCD/indexi.html) - [UPV](https://www.upv.es/) (2018-2022)
+
+## Location 📍
+
+Valencia, Spain 🇪🇸
+
+## Focus Areas 🎯
+
+Passionate about impactful AI projects in:
+
+- Healthcare & Psychology
+- Quantum Computing
+- Nuclear Fusion
+- Cryptography
+- Biotechnology
+
+## Connect 🔗
+
+- [LinkedIn](https://www.linkedin.com/in/angel-langdon-villamayor-a44b49187/)
+- [GitHub @angel-langdon](https://github.com/angel-langdon)
